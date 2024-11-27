@@ -1,0 +1,43 @@
+/* Temas del segundo período*/
+
+.texto{
+   
+    font-size: 50px;
+    padding-top: 140px;
+    text-align: justify;
+    color: rgb(246, 248, 244);
+}
+.principal{
+   display: flex;
+     
+}
+body{
+  
+    background-image: url("principal.jpg");
+   
+
+}
+
+.titulos{ 
+color: rgb(253, 248, 248);
+text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 200%;
+
+}
+
+.titulo1{ 
+    color: rgb(208, 235, 59);
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 200%;
+    
+    }
+
+.img1{
+height: 200px;
+width: 200px;
+background-image: url("excel.jpg");
+background-repeat: no-repeat;
+text-align: center;
+}
